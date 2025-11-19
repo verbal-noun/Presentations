@@ -6,7 +6,7 @@ A repo to hold all the workshops, presentations and talks I've given at differen
 | Date | Conference | Topic | Slides |
 |------|-----------|-------|--------|
 | 2025 | Atlassian EngFest 2025 | AI Hacking Marathon | (Internal) |
-| 2025 | AISA Melbourne | OAuth Hacking Marathon | [AISA-Melb-2025-OAuth-Hacking Marathon.pdf](Security/AISA-Melb-2025-OAuth-Hacking%20Marathon.pdf) |
+| 2025 | AISA Melbourne | OAuth Hacking Marathon | [AISA-Melb-2025-OAuth-Hacking Marathon.pdf](Security/AISA-Melb-2025-OAuth-Hacking-Marathon.pdf) |
 | 2025 | AppSec Australia Melbourne | OAuth Hacking Marathon | |
 | 2024 | BSides Melbourne | OAuth Hacking Marathon | [BSides Melb 2024 - OAuth Talk.pdf](Security/BSides%20Melb%202024%20-%20OAuth%20Talk.pdf) |
 | 2024 | GDG Melbourne DevFest | Breaking The Supply Chain: Live Hacking Marathon | |
